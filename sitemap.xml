@@ -2,146 +2,146 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://niatimary.github.io/Ammonyte/get-started/quickstart.html</loc>
-    <lastmod>2026-06-26T00:27:37.872Z</lastmod>
+    <lastmod>2026-06-29T18:40:25.240Z</lastmod>
   </url>
   <url>
     <loc>https://niatimary.github.io/Ammonyte/get-started/contributing.html</loc>
-    <lastmod>2026-06-26T00:27:37.872Z</lastmod>
+    <lastmod>2026-06-29T18:40:25.239Z</lastmod>
   </url>
   <url>
     <loc>https://niatimary.github.io/Ammonyte/get-started/citation.html</loc>
-    <lastmod>2026-06-26T00:27:37.871Z</lastmod>
+    <lastmod>2026-06-29T18:40:25.239Z</lastmod>
   </url>
   <url>
     <loc>https://niatimary.github.io/Ammonyte/notebooks/model_demos/placeholder.html</loc>
-    <lastmod>2026-06-26T00:27:37.884Z</lastmod>
+    <lastmod>2026-06-29T18:40:25.252Z</lastmod>
   </url>
   <url>
     <loc>https://niatimary.github.io/Ammonyte/notebooks/functionality_demos/placeholder.html</loc>
-    <lastmod>2026-06-26T00:27:37.884Z</lastmod>
+    <lastmod>2026-06-29T18:40:25.252Z</lastmod>
   </url>
   <url>
     <loc>https://niatimary.github.io/Ammonyte/notebooks/base_classes/placeholder.html</loc>
-    <lastmod>2026-06-26T00:27:37.883Z</lastmod>
+    <lastmod>2026-06-29T18:40:25.251Z</lastmod>
   </url>
   <url>
     <loc>https://niatimary.github.io/Ammonyte/notebooks/KS_test.html</loc>
-    <lastmod>2026-06-26T00:27:37.875Z</lastmod>
+    <lastmod>2026-06-29T18:40:25.243Z</lastmod>
   </url>
   <url>
     <loc>https://niatimary.github.io/Ammonyte/tutorials/index.html</loc>
-    <lastmod>2026-06-26T00:27:37.886Z</lastmod>
+    <lastmod>2026-06-29T18:40:25.254Z</lastmod>
   </url>
   <url>
     <loc>https://niatimary.github.io/Ammonyte/api/utils.lerm_transitions.lerm_transition.html</loc>
-    <lastmod>2026-06-26T00:27:37.870Z</lastmod>
+    <lastmod>2026-06-29T18:40:25.237Z</lastmod>
   </url>
   <url>
     <loc>https://niatimary.github.io/Ammonyte/api/core.recurrence_network.RecurrenceNetwork.html</loc>
-    <lastmod>2026-06-26T00:27:37.867Z</lastmod>
+    <lastmod>2026-06-29T18:40:25.235Z</lastmod>
   </url>
   <url>
     <loc>https://niatimary.github.io/Ammonyte/api/core.time_embedded_series.TimeEmbeddedSeries.html</loc>
-    <lastmod>2026-06-26T00:27:37.868Z</lastmod>
+    <lastmod>2026-06-29T18:40:25.235Z</lastmod>
   </url>
   <url>
     <loc>https://niatimary.github.io/Ammonyte/api/utils.plotting.bootstrap_fill_plot.html</loc>
-    <lastmod>2026-06-26T00:27:37.871Z</lastmod>
+    <lastmod>2026-06-29T18:40:25.238Z</lastmod>
   </url>
   <url>
     <loc>https://niatimary.github.io/Ammonyte/api/utils.plotting.bootstrap_scatter_plot.html</loc>
-    <lastmod>2026-06-26T00:27:37.871Z</lastmod>
+    <lastmod>2026-06-29T18:40:25.238Z</lastmod>
   </url>
   <url>
     <loc>https://niatimary.github.io/Ammonyte/api/core.recurrence_matrix.RecurrenceMatrix.html</loc>
-    <lastmod>2026-06-26T00:27:37.867Z</lastmod>
+    <lastmod>2026-06-29T18:40:25.234Z</lastmod>
   </url>
   <url>
     <loc>https://niatimary.github.io/Ammonyte/api/utils.ks.KS_test.html</loc>
-    <lastmod>2026-06-26T00:27:37.869Z</lastmod>
+    <lastmod>2026-06-29T18:40:25.236Z</lastmod>
   </url>
   <url>
     <loc>https://niatimary.github.io/Ammonyte/MAINTAINER_NOTES.html</loc>
-    <lastmod>2026-06-26T00:27:37.798Z</lastmod>
+    <lastmod>2026-06-29T18:40:25.149Z</lastmod>
   </url>
   <url>
     <loc>https://niatimary.github.io/Ammonyte/methods/index.html</loc>
-    <lastmod>2026-06-26T00:27:37.873Z</lastmod>
+    <lastmod>2026-06-29T18:40:25.241Z</lastmod>
   </url>
   <url>
     <loc>https://niatimary.github.io/Ammonyte/methods/ruptures.html</loc>
-    <lastmod>2026-06-26T00:27:37.873Z</lastmod>
+    <lastmod>2026-06-29T18:40:25.241Z</lastmod>
   </url>
   <url>
     <loc>https://niatimary.github.io/Ammonyte/methods/lerm.html</loc>
-    <lastmod>2026-06-26T00:27:37.873Z</lastmod>
+    <lastmod>2026-06-29T18:40:25.241Z</lastmod>
   </url>
   <url>
     <loc>https://niatimary.github.io/Ammonyte/methods/augmented_ks_test.html</loc>
-    <lastmod>2026-06-26T00:27:37.873Z</lastmod>
+    <lastmod>2026-06-29T18:40:25.241Z</lastmod>
   </url>
   <url>
     <loc>https://niatimary.github.io/Ammonyte/index.html</loc>
-    <lastmod>2026-06-26T00:27:37.873Z</lastmod>
+    <lastmod>2026-06-29T20:11:48.335Z</lastmod>
   </url>
   <url>
     <loc>https://niatimary.github.io/Ammonyte/api/core.transitions.DeterministicTransitions.html</loc>
-    <lastmod>2026-06-26T00:27:37.868Z</lastmod>
+    <lastmod>2026-06-29T18:40:25.236Z</lastmod>
   </url>
   <url>
     <loc>https://niatimary.github.io/Ammonyte/api/utils.metrics.evaluate_detection.html</loc>
-    <lastmod>2026-06-26T00:27:37.870Z</lastmod>
+    <lastmod>2026-06-29T18:40:25.238Z</lastmod>
   </url>
   <url>
     <loc>https://niatimary.github.io/Ammonyte/api/core.series.Series.html</loc>
-    <lastmod>2026-06-26T00:27:37.868Z</lastmod>
+    <lastmod>2026-06-29T18:40:25.235Z</lastmod>
   </url>
   <url>
     <loc>https://niatimary.github.io/Ammonyte/api/utils.ruptures_transitions.ruptures_transition.html</loc>
-    <lastmod>2026-06-26T00:27:37.871Z</lastmod>
+    <lastmod>2026-06-29T18:40:25.239Z</lastmod>
   </url>
   <url>
     <loc>https://niatimary.github.io/Ammonyte/api/utils.metrics.DetectionMetrics.html</loc>
-    <lastmod>2026-06-26T00:27:37.870Z</lastmod>
+    <lastmod>2026-06-29T18:40:25.237Z</lastmod>
   </url>
   <url>
     <loc>https://niatimary.github.io/Ammonyte/api/index.html</loc>
-    <lastmod>2026-06-26T00:27:37.869Z</lastmod>
+    <lastmod>2026-06-29T18:40:25.236Z</lastmod>
   </url>
   <url>
     <loc>https://niatimary.github.io/Ammonyte/api/utils.parameters.tau_search.html</loc>
-    <lastmod>2026-06-26T00:27:37.870Z</lastmod>
+    <lastmod>2026-06-29T18:40:25.238Z</lastmod>
   </url>
   <url>
     <loc>https://niatimary.github.io/Ammonyte/api/core.rqa_res.RQARes.html</loc>
-    <lastmod>2026-06-26T00:27:37.868Z</lastmod>
+    <lastmod>2026-06-29T18:40:25.235Z</lastmod>
   </url>
   <url>
     <loc>https://niatimary.github.io/Ammonyte/notebooks/KS_test_Validation.html</loc>
-    <lastmod>2026-06-26T00:27:37.877Z</lastmod>
+    <lastmod>2026-06-29T20:24:14.694Z</lastmod>
   </url>
   <url>
     <loc>https://niatimary.github.io/Ammonyte/notebooks/Ruptures_Validation.html</loc>
-    <lastmod>2026-06-26T00:27:37.883Z</lastmod>
+    <lastmod>2026-06-29T20:24:14.700Z</lastmod>
   </url>
   <url>
     <loc>https://niatimary.github.io/Ammonyte/notebooks/Getting_Started.html</loc>
-    <lastmod>2026-06-26T19:12:06.858Z</lastmod>
+    <lastmod>2026-06-29T20:24:14.691Z</lastmod>
   </url>
   <url>
     <loc>https://niatimary.github.io/Ammonyte/notebooks/LERM_validation.html</loc>
-    <lastmod>2026-06-26T00:27:37.880Z</lastmod>
+    <lastmod>2026-06-29T20:24:14.697Z</lastmod>
   </url>
   <url>
     <loc>https://niatimary.github.io/Ammonyte/notebooks/Rupture_Validation.html</loc>
-    <lastmod>2026-06-26T00:27:37.882Z</lastmod>
+    <lastmod>2026-06-29T18:40:25.249Z</lastmod>
   </url>
   <url>
     <loc>https://niatimary.github.io/Ammonyte/get-started/overview.html</loc>
-    <lastmod>2026-06-26T18:54:17.184Z</lastmod>
+    <lastmod>2026-06-29T18:40:25.240Z</lastmod>
   </url>
   <url>
     <loc>https://niatimary.github.io/Ammonyte/get-started/installation.html</loc>
-    <lastmod>2026-06-26T00:27:37.872Z</lastmod>
+    <lastmod>2026-06-29T18:40:25.240Z</lastmod>
   </url>
 </urlset>
